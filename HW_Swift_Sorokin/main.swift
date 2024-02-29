@@ -1,9 +1,7 @@
-//
 //  main.swift
 //  HW_Swift_Sorokin
 //
 //  Created by Ivan on 2/1/24.
-//  Final code version
 
 import Foundation
 
